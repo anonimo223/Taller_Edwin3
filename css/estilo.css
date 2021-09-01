@@ -1,0 +1,14 @@
+body{
+    margin:auto 30px;
+    padding: 20px;
+}
+.contendor{
+    position: relative;
+    border: 1px red solid;
+}
+.img-uno{
+    border: 20px red solid;
+}
+.img1{
+    border-radius: 1px red solid;
+}
