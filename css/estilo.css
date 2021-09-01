@@ -5,10 +5,17 @@ body{
 .contendor{
     position: relative;
     border: 1px red solid;
+    display:center;
 }
 .img-uno{
     border: 20px red solid;
 }
 .img1{
     border-radius: 1px red solid;
+   
+}
+
+.p-letras{
+    border: 1px red solid;
+    
 }
